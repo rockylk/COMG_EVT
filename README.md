@@ -20,7 +20,6 @@ COMG-EVT/
 ⚙️ Installation
 
 We recommend using a virtual environment (such as Conda or venv).
-Bash
 
 # Clone the repository
 git clone [https://github.com/your-username/COMG-EVT.git](https://github.com/your-username/COMG-EVT.git)
