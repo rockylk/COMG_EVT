@@ -6,7 +6,6 @@ Our framework overcomes the challenge of detecting zero-day threats in fully enc
 
 ## 📂 Project Structure
 
-```text
 COMG-EVT/
 ├── features.py        # PCAP parsing, protocol feature extraction, and GNN Data modeling
 ├── models.py          # Network architectures: GNN, 1D-CNN, GatedFusion, and InfoNCE loss
