@@ -5,7 +5,7 @@ This repository contains the official implementation of **Open-Set Encrypted Tra
 Our framework overcomes the challenge of detecting zero-day threats in fully encrypted environments (e.g., TLS 1.3) by utilizing Graph Contrastive Learning (InfoNCE) to eliminate metric distortion, and Extreme Value Theory (EVT) to construct rigorous statistical boundaries for unknown attacks.
 
 ## 📂 Project Structure
-
+```text
 COMG-EVT/
 ├── features.py        # PCAP parsing, protocol feature extraction, and GNN Data modeling
 ├── models.py          # Network architectures: GNN, 1D-CNN, GatedFusion, and InfoNCE loss
@@ -16,7 +16,8 @@ COMG-EVT/
 ├── main.py            # CLI entry point
 ├── requirements.txt   # Required Python dependencies
 └── README.md          # Usage instructions
-⚙️ Installation
+```
+# Installation
 
 We recommend using a virtual environment (such as Conda or venv).
 
